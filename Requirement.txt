@@ -1,0 +1,7 @@
+yellow: ffbe0b-fb5607-ff006e-8338ec-3a86ff
+orange: 8ecae6-219ebc-023047-ffb703-fb8500
+Pink  : 390099-9e0059-ff0054-ff5400-ffbd00
+Cream : fbba72-ca5310-bb4d00-8f250c-691e06
+
+font family 1 : https://fonts.google.com/specimen/Roboto
+font family 2 : https://fonts.google.com/specimen/Alumni+Sans+Collegiate+One
